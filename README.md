@@ -1,1 +1,1 @@
-# These are other hands-on projects of HDSC W'23
+# This contains all the other projects in the Winter 2023 Cohort of Hamoye Data Science Internship
